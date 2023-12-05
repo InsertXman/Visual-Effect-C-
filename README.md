@@ -1,2 +1,2 @@
 # Visual-Effect-C-
-i 
+I rewrote the code [from here](https://github.com/InsertXman/Visual-Effect) in C++
